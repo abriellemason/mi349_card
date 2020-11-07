@@ -41,3 +41,8 @@ h2 {
     display: inline-block;
     padding: 20px 10px;
 }
+
+.contacts li a:hover {
+    color: blue;
+    transition: opacity ease-in-out 0.2s;
+}
